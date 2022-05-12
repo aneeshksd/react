@@ -1,0 +1,12 @@
+.Reg{
+    text-align: center;
+    background: linear-gradient(to right, #66c6f6, #55fe9b);
+    padding: 10px;
+    padding-left: 20%;
+    padding-right: 20%;
+    
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10%;
+    margin-bottom: 20%;
+  }
